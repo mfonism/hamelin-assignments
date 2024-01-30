@@ -9,3 +9,8 @@ calculateGrade grade =
 simulateTrafficLight : String -> String
 simulateTrafficLight color =
     "Go go Brandon!"
+
+
+convertHourFormat : Int -> Int
+convertHourFormat twelveFormat =
+    34
