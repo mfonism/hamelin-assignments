@@ -3,7 +3,7 @@ module Conditionals exposing (..)
 
 calculateGrade : Int -> String
 calculateGrade grade =
-    "Hey hey"
+    "No more hey hey"
 
 
 simulateTrafficLight : String -> String
